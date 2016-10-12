@@ -1,2 +1,4 @@
+Ralph Ayala student of HSTAT
 RalphA6189@hstat.org
-2: ADV Algebra
+Born in Brooklyn. Studying software engineering. Birthday Januwary 7
+Schedule
