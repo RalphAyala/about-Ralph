@@ -1,12 +1,14 @@
-#**Ralph Ayala student**
+#**Ralph Ayala**
+
+###Student
 
 ###_High school of Telecommunication Arts and Technology_
 
 RalphA6189@hstat.org
 
-Born in Brooklyn. Studying software engineering. Birthday Januwary 7 2000. 
+Born in Brooklyn, Studying software engineering Birthday Januwary 7 2000, lives in NYC, has a brother and a sister.
 
-Schedule:
+Schedule
 
 1. Sep 
 
@@ -23,3 +25,5 @@ Schedule:
 7. US history 
 
 8. Spanish
+
+
