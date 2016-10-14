@@ -6,7 +6,7 @@
 
 RalphA6189@hstat.org
 
-Born in Brooklyn, Studying software engineering Birthday Januwary 7 2000, lives in NYC, has a brother and a sister.
+Born in Brooklyn, Studying software engineering, Birthday Januwary 7 2000, lives in NYC, has a brother and a sister.
 
 Schedule
 
