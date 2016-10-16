@@ -16,7 +16,7 @@ Likes
  
 * Helping others
  
-*Technology
+* Technology
 
 Schedule
 
