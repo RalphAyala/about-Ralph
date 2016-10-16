@@ -8,6 +8,16 @@ RalphA6189@hstat.org
 
 Born in Brooklyn, Studying software engineering, Birthday Januwary 7 2000, lives in NYC, has a brother and a sister.
 
+Likes
+ 
+* Mathmatics
+ 
+* science
+ 
+* Helping others
+ 
+*Technology
+
 Schedule
 
     1. Sep 
@@ -25,5 +35,4 @@ Schedule
     7. US history 
 
     8. Spanish
-
 
