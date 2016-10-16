@@ -10,13 +10,13 @@ Born in Brooklyn, Studying software engineering, Birthday Januwary 7 2000, lives
 
 Likes
  
-* Mathmatics
+ * Mathmatics
  
-* science
+ * science
  
-* Helping others
+ * Helping others
  
-* Technology
+ * Technology
 
 Schedule
 
